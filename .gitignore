@@ -1,0 +1,6 @@
+_build/
+.lia.cache
+.vscode
+*.aux
+*.glob
+*.vo*
